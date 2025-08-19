@@ -1,4 +1,4 @@
-package com.tadza.users;
+package com.tadza.users.common;
 
 public enum Role {
     USER,

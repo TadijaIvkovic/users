@@ -1,4 +1,4 @@
-package com.tadza.users;
+package com.tadza.users.common;
 
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Sort;

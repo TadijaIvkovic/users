@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: catalog
+  datasource:
+    url: jdbc:mysql://localhost:3306/users_api?createDatabaseIfNotExist=true
+    username: root
+    password: password123
+  jpa:
+    show-sql: true
