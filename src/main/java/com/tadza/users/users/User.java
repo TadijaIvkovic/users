@@ -1,5 +1,6 @@
-package com.tadza.users.common;
+package com.tadza.users.users;
 
+import com.tadza.users.dtos.Role;
 import jakarta.persistence.*;
 import lombok.*;
 

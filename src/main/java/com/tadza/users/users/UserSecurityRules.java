@@ -1,4 +1,4 @@
-package com.tadza.users.common;
+package com.tadza.users.users;
 //
 //import com.codewithmosh.store.common.SecurityRules;
 //import org.springframework.http.HttpMethod;

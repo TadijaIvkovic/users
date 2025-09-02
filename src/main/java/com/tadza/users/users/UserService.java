@@ -1,5 +1,6 @@
-package com.tadza.users.common;
+package com.tadza.users.users;
 
+import com.tadza.users.dtos.*;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Sort;
 import org.springframework.security.crypto.password.PasswordEncoder;

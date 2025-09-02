@@ -1,4 +1,4 @@
-package com.tadza.users.common;
+package com.tadza.users.dtos;
 
 import lombok.Data;
 

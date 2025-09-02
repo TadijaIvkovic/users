@@ -1,4 +1,4 @@
-package com.tadza.users.common;
+package com.tadza.users.users;
 
 import jakarta.persistence.*;
 import lombok.*;

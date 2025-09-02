@@ -1,6 +1,10 @@
-package com.tadza.users.common;
+package com.tadza.users.users;
 
 
+import com.tadza.users.dtos.ChangePasswordDto;
+import com.tadza.users.dtos.RegisterUserDto;
+import com.tadza.users.dtos.UpdateUserDto;
+import com.tadza.users.dtos.UserDto;
 import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

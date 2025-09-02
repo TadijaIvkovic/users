@@ -1,5 +1,6 @@
-package com.tadza.users.common;
+package com.tadza.users.dtos;
 
+import com.tadza.users.users.Lowercase;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

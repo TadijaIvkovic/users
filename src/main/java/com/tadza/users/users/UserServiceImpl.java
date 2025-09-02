@@ -1,4 +1,4 @@
-package com.tadza.users.common;
+package com.tadza.users.users;
 
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.User;

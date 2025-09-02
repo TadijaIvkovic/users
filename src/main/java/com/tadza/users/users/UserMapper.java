@@ -1,5 +1,8 @@
-package com.tadza.users.common;
+package com.tadza.users.users;
 
+import com.tadza.users.dtos.RegisterUserDto;
+import com.tadza.users.dtos.UpdateUserDto;
+import com.tadza.users.dtos.UserDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.MappingTarget;
 
